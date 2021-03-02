@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.WebApp", "eShopSolution.WebApp\eShopSolution.WebApp.csproj", "{EB16E9CD-B7C1-4C51-9B87-C7F74E45BA50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.Data", "eShopSolution.Data\eShopSolution.Data.csproj", "{3789BF90-2C6F-4DB8-A8D5-6E834A206831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopSolution.Application", "eShopSolution.Application\eShopSolution.Application.csproj", "{0B6AB3EC-307A-4FB0-9E61-637BD884AD19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{EB16E9CD-B7C1-4C51-9B87-C7F74E45BA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB16E9CD-B7C1-4C51-9B87-C7F74E45BA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB16E9CD-B7C1-4C51-9B87-C7F74E45BA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3789BF90-2C6F-4DB8-A8D5-6E834A206831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3789BF90-2C6F-4DB8-A8D5-6E834A206831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3789BF90-2C6F-4DB8-A8D5-6E834A206831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3789BF90-2C6F-4DB8-A8D5-6E834A206831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6AB3EC-307A-4FB0-9E61-637BD884AD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6AB3EC-307A-4FB0-9E61-637BD884AD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6AB3EC-307A-4FB0-9E61-637BD884AD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6AB3EC-307A-4FB0-9E61-637BD884AD19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
